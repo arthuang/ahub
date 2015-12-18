@@ -68,7 +68,5 @@ module Ahub
       # @sort =
       # @total_count =
     end
-
-    def
   end
 end
